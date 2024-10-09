@@ -23,3 +23,4 @@ The test will fetch user and todo data from `http://jsonplaceholder.typicode.com
 - Java
 - RestAssured (for API interactions)
 - JUnit 5 (for testing)
+- Gson (for JSON parsing)
